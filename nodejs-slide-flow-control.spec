@@ -3,7 +3,7 @@
 Summary:	A flow control library that fits in a slideshow
 Name:		nodejs-%{pkg}
 Version:	1.1.3
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Libraries
 URL:		https://github.com/isaacs/slide-flow-control
